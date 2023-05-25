@@ -1,6 +1,6 @@
 {
-    "name": "dange",
-    "short_name": "dange",
+    "name": "testwebtest",
+    "short_name": "testwebtest",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
